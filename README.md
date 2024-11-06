@@ -46,7 +46,7 @@ This project initializes a 7-segment display to show digits from 0 to 9 sequenti
 
   - 1) Clone this repository:
 
-  git clone https://github.com/VYANKATESHNAMDAS/7-segment-counter.git
+   https://github.com/VYANKATESHNAMDAS/7-segment-counter.git
 
   - 2) Open main.c in Keil, compile and simulate it.
   - 3) Use Proteus for schematic and PCB layout.
